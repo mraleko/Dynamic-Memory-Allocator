@@ -1,4 +1,4 @@
-# Dynamic Memory Allocator (Resume Version)
+# Dynamic Memory Allocator
 
 This directory is a standalone version of my allocator implementation, stripped
 to code I can publish publicly while preserving the core allocator strategy.
